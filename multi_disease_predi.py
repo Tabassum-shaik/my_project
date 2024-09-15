@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug 31 19:59:09 2023
-
-@author: user
+A multi Disease detection System
 """
 
 import pickle
