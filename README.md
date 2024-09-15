@@ -4,3 +4,14 @@ It predicts
 Heart_Disease
 Parkinsons
 Diabetes
+
+FRAMEWORKS USED:
+Numpy
+Sklearn
+Streamlit
+
+Algorithms:
+SVM
+Logistic Regression
+
+
